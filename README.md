@@ -27,8 +27,11 @@ Desarrollar un servicio que produzca codigos QR y permita visualizar promociones
 - [x] Definir solución
 ### Diseño
 - [ ] Encontrar paleta de colores Liverpool
+![Paleta de colores LIVERPOOL](https://user-images.githubusercontent.com/80546249/115590484-e0280000-a285-11eb-8489-19fdd49d232d.jpg)
 - [ ] Buscar como implementar a Bolo en nuestras paginas. 
+Propuesta: Usar a Bolo para generar interactividad con el usuario, haciendo del personaje un tipo de "asistente virtual" para resolver dudas generales, invitar a los usuarios a adquirir una tarjeta Liverpool (Para usuarios sin tarjeta), o invitar a los usuarios conocer otros beneficios (Para tarjetahabientes)
 - [ ] Diseño de landing page
+![LANDING PAGE](https://user-images.githubusercontent.com/80546249/115590522-e7e7a480-a285-11eb-8400-dd303d528e9f.png)
 - [ ] Diseño página para no tarjetahabientes
 - [ ] Diseño para tarjetahabientes
 ### Funcional
